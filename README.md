@@ -60,8 +60,6 @@
 
 ## 🖼️ تصاویر برنامه
 
-> تصاویر زیر از پوشه `assets` بارگذاری می‌شوند. نام فایل‌ها باید دقیقاً مطابق نام‌های زیر باشد.
-
 <div align="center">
 
 <table>
@@ -146,17 +144,6 @@ lib/
 │   └── tutorial/
 └── main.dart
 
-assets/
-├── image1.jpg
-├── image2.jpg
-├── image3.jpg
-├── image4.jpg
-├── image5.jpg
-├── image6.jpg
-├── image7.jpg
-├── image8.jpg
-├── image9.jpg
-└── image10.jpg
 ```
 
 ---
@@ -182,8 +169,6 @@ flutter run
 ```bash
 flutter build apk --release
 ```
-
-> توجه: فایل `pubspec.yaml` و تنظیمات کامل پروژه باید در مخزن موجود باشند. همچنین برای نمایش تصاویر در GitHub، ده تصویر معرفی‌شده را با همین نام‌ها داخل پوشه `assets/` قرار دهید.
 
 ---
 
