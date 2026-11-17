@@ -1,4 +1,4 @@
-<div align="center" dir="rtl">
+<div dir="rtl" align="right">
 
 # ⚡ Neon Calc
 ### ماشین‌حساب مهندسی و مجموعه ابزارهای کاربردی
@@ -6,15 +6,13 @@
 یک ماشین‌حساب فارسی با طراحی نئونی، امکانات علمی و مجموعه‌ای از ابزارهای روزمره و مالی؛  
 ساخته‌شده با Flutter و با تمرکز بر تجربه کاربری ساده، سریع و واکنش‌گرا.
 
-[![دانلود از کافه‌بازار](https://img.shields.io/badge/دانلود-کافه‌بازار-20A464?style=for-the-badge&logo=android&logoColor=white)](https://cafebazaar.ir/app/com.example.neon_calc)
-[![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-
-</div>
+<p align="center">
+  <a href="https://cafebazaar.ir/app/com.example.neon_calc"><img src="https://img.shields.io/badge/دانلود-کافه‌بازار-20A464?style=for-the-badge&logo=android&logoColor=white" alt="Cafebazaar"></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+  <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform"></a>
+</p>
 
 ---
-
-<div dir="rtl">
 
 ## 📱 معرفی برنامه
 
@@ -30,7 +28,7 @@
 - توابع مثلثاتی و معکوس آن‌ها: `sin`، `cos`، `tan`، `asin`، `acos` و `atan`
 - محاسبه لگاریتم طبیعی و ده‌دهی: `ln` و `log`
 - محاسبه توان، فاکتوریل، درصد و ریشه دوم و سوم
-- پشتیبانی از ثابت‌های ریاضی $\pi$ و $e$
+- پشتیبانی از ثابت‌های ریاضی π و e
 - انتخاب حالت زاویه بر حسب درجه یا رادیان
 - پنل کلیدهای مهندسی و ورودی کسر
 - مدیریت حافظه محاسباتی و تاریخچه
@@ -58,13 +56,11 @@
 - چیدمان واکنش‌گرا برای اندازه‌های مختلف صفحه
 - حفظ وضعیت صفحات هنگام جابه‌جایی بین بخش‌ها
 
-</div>
-
 ---
 
-<div align="center" dir="rtl">
-
 ## 🖼️ تصاویر برنامه
+
+<div align="center">
 
 <table>
   <tr>
@@ -92,8 +88,6 @@
 </div>
 
 ---
-
-<div dir="rtl">
 
 ## ⬇️ دانلود برنامه
 
