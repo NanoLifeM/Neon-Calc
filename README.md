@@ -111,64 +111,11 @@
 
 ---
 
-## 🗂️ ساختار کلی پروژه
-
-ساختار کدها به‌صورت ویژگی‌محور (Feature-oriented) سازمان‌دهی شده است:
-
-```text
-lib/
-├── app/
-│   ├── app.dart
-│   ├── app_shell.dart
-│   └── di.dart
-├── core/
-│   ├── format/
-│   ├── formatting/
-│   ├── layout/
-│   ├── parsing/
-│   ├── settings/
-│   ├── theme/
-│   └── widgets/
-├── features/
-│   ├── calculator/
-│   │   ├── domain/
-│   │   └── presentation/
-│   ├── tools/
-│   │   ├── date_tools/
-│   │   ├── formulas/
-│   │   ├── loan/
-│   │   ├── loan_compare/
-│   │   ├── shapes/
-│   │   ├── split_bill/
-│   │   └── unit_converter/
-│   └── tutorial/
-└── main.dart
-
-```
-
 ---
 
-## 🚀 اجرای پروژه
+## ℹ️ درباره این مخزن
 
-برای اجرای سورس کد، ابتدا Flutter SDK را نصب کنید و مخزن را دریافت کنید:
-
-```bash
-git clone <REPOSITORY_URL>
-cd <PROJECT_DIRECTORY>
-```
-
-سپس وابستگی‌ها را دریافت و برنامه را اجرا کنید:
-
-```bash
-flutter pub get
-flutter run
-```
-
-برای ساخت فایل APK:
-
-```bash
-flutter build apk --release
-```
+این مخزن صرفاً برای معرفی ظاهری اپلیکیشن **Neon Calc** و نمایش تصاویر محیط برنامه ایجاد شده است. سورس‌کد اصلی پروژه در این مخزن منتشر نشده و این صفحه جنبه نمایشی و معرفی دارد.
 
 ---
 
